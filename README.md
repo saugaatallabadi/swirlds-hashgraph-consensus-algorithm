@@ -1,6 +1,8 @@
 # Swirlds Hashgraph Consensus Algorithm
 ### Fair, Fast, Byzantine Fault Tolerance
 
+<img src = "image.png" height = "300">
+
 - Introduction
 - Core concepts
 - Gossip about gossip: the hashgraph
