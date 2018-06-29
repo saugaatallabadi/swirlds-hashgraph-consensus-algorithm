@@ -1,7 +1,7 @@
 # Swirlds Hashgraph Consensus Algorithm
 ### Fair, Fast, Byzantine Fault Tolerance
 
-<img src = "image.png" height = "300">
+<img src = "image.png" height = "320">
 
 - Introduction
 - Core concepts
